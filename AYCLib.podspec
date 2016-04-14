@@ -9,21 +9,25 @@
 Pod::Spec.new do |s|
   s.name             = "AYCLib"
   s.version          = "0.1.0"
-  s.summary          = "A short description of AYCLib."
+  s.summary          = "Quick To Add Speak String!"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!  
-  s.description      = <<-DESC
-                       DESC
+#   * Finally, don't worry about the indent, CocoaPods strips it!
+    s.description      = <<-DESC
+    An optional longer description of AYCLib
+
+    * Markdown format.
+    * Don't worry about the indent, we strip it!
+    DESC
 
   s.homepage         = "https://github.com/JackBao007/AYCLib"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "YB" => "yaoyubao@miao.cn" }
-  s.source           = { :git => "https://github.com/JackBao007/AYCLib", :tag => '0.1.0' }
+  s.source           = { :git => "https://github.com/JackBao007/AYCLib.git", :tag => '0.1.0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
