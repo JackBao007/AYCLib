@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/yb/Desktop/PodTest/AYCLib/Example/build/Debug-iphonesimulator/AYCLib.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AYCLib-Swift.h",
+          'external-contents': "/Users/yb/Desktop/PodTest/AYCLib/Example/build/Debug-iphonesimulator/AYCLib.framework/Headers/AYCLib-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AYCLib-umbrella.h",
+          'external-contents': "/Users/yb/Desktop/PodTest/AYCLib/Example/Pods/Target Support Files/AYCLib/AYCLib-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yb/Desktop/PodTest/AYCLib/Example/build/Debug-iphonesimulator/AYCLib.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yb/Desktop/PodTest/AYCLib/Example/build/Pods.build/Debug-iphonesimulator/AYCLib.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

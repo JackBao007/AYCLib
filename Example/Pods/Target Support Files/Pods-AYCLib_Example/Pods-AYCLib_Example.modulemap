@@ -1,0 +1,6 @@
+framework module Pods_AYCLib_Example {
+  umbrella header "Pods-AYCLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

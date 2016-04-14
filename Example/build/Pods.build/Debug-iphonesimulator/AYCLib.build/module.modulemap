@@ -1,0 +1,6 @@
+framework module AYCLib {
+  umbrella header "AYCLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,14 @@
+PODS:
+  - AYCLib (0.1.0)
+
+DEPENDENCIES:
+  - AYCLib (from `../`)
+
+EXTERNAL SOURCES:
+  AYCLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AYCLib: 6689ffd576daa9fbe6291c0553763c6092ee5aa8
+
+COCOAPODS: 0.39.0
