@@ -23,11 +23,11 @@ Pod::Spec.new do |s|
     * Don't worry about the indent, we strip it!
     DESC
 
-  s.homepage         = "https://github.com/JackBao007/AYCLib"
+  s.homepage         = "https://github.com/JackBao007/AYCLib.git"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "YB" => "yaoyubao@miao.cn" }
-  s.source           = { :git => "https://github.com/JackBao007/AYCLib.git", :tag => '1.0' }
+  s.source           = { :git => "/Users/yb/Desktop/PodTest/AYCLib", :tag => '1.0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
